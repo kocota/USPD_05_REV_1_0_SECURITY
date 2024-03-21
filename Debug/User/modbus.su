@@ -1,0 +1,5 @@
+modbus.c:15:6:read_status_registers	16	static
+modbus.c:399:6:read_control_registers	16	static
+modbus.c:609:6:read_bootloader_registers	16	static
+modbus.c:773:6:read_ibutton_registers	16	static
+modbus.c:7401:15:CRC16	24	static
